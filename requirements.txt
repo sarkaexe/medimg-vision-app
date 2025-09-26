@@ -1,0 +1,6 @@
+numpy
+opencv-python-headless>=4.8
+scikit-image
+matplotlib
+pydicom
+streamlit>=1.30
